@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "johnbabb",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"johnbabb","repositoryName":"blog","branch":"gh-pages"},"site":{"url":"https://johnbabb.github.io/blog"},"socialnetwork":{"email":"johnbabb@infocss.com"},"theme":{"name":"Casper","url":"//johnbabb.github.io/blog/themes/Casper"}}
